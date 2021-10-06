@@ -1,4 +1,0 @@
-<?php
-dfd
-echo "Hello";
-?>
